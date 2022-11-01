@@ -1,0 +1,16 @@
+D:\Visual Studio project\Poor Paint\Poor Paint\bin\Release\Poor Paint.exe.config
+D:\Visual Studio project\Poor Paint\Poor Paint\bin\Release\Poor Paint.exe
+D:\Visual Studio project\Poor Paint\Poor Paint\bin\Release\Poor Paint.pdb
+D:\Visual Studio project\Poor Paint\Poor Paint\obj\Release\Poor Paint.csproj.AssemblyReference.cache
+D:\Visual Studio project\Poor Paint\Poor Paint\obj\Release\Poor Paint.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio project\Poor Paint\Poor Paint\obj\Release\MainWindow.g.cs
+D:\Visual Studio project\Poor Paint\Poor Paint\obj\Release\App.g.cs
+D:\Visual Studio project\Poor Paint\Poor Paint\obj\Release\Poor Paint_MarkupCompile.cache
+D:\Visual Studio project\Poor Paint\Poor Paint\obj\Release\Poor Paint_MarkupCompile.lref
+D:\Visual Studio project\Poor Paint\Poor Paint\obj\Release\MainWindow.baml
+D:\Visual Studio project\Poor Paint\Poor Paint\obj\Release\Poor Paint.g.resources
+D:\Visual Studio project\Poor Paint\Poor Paint\obj\Release\Poor_Paint.Properties.Resources.resources
+D:\Visual Studio project\Poor Paint\Poor Paint\obj\Release\Poor Paint.csproj.GenerateResource.cache
+D:\Visual Studio project\Poor Paint\Poor Paint\obj\Release\Poor Paint.csproj.CoreCompileInputs.cache
+D:\Visual Studio project\Poor Paint\Poor Paint\obj\Release\Poor Paint.exe
+D:\Visual Studio project\Poor Paint\Poor Paint\obj\Release\Poor Paint.pdb
